@@ -1,0 +1,50 @@
+{
+  "layerwise": {
+    "rho_max": 0.9765976597659766,
+    "rho_ties": [
+      "Layer-wise (lambda=0.9)"
+    ],
+    "tau_max_in_rho_ties": 0.8844444444444445,
+    "tau_ties": [
+      "Layer-wise (lambda=0.9)"
+    ],
+    "minimum_lambda": 0.9,
+    "lambda_ties": [
+      "Layer-wise (lambda=0.9)"
+    ],
+    "global_operational_tiebreak": false,
+    "winner": "Layer-wise (lambda=0.9)"
+  },
+  "global": {
+    "rho_max": 0.977041704170417,
+    "rho_ties": [
+      "Global (lambda=1.0)"
+    ],
+    "tau_max_in_rho_ties": 0.888080808080808,
+    "tau_ties": [
+      "Global (lambda=1.0)"
+    ],
+    "minimum_lambda": 1.0,
+    "lambda_ties": [
+      "Global (lambda=1.0)"
+    ],
+    "global_operational_tiebreak": false,
+    "winner": "Global (lambda=1.0)"
+  },
+  "between_models": {
+    "rho_max": 0.977041704170417,
+    "rho_ties": [
+      "Global (lambda=1.0)"
+    ],
+    "tau_max_in_rho_ties": 0.888080808080808,
+    "tau_ties": [
+      "Global (lambda=1.0)"
+    ],
+    "minimum_lambda": 1.0,
+    "lambda_ties": [
+      "Global (lambda=1.0)"
+    ],
+    "global_operational_tiebreak": false,
+    "winner": "Global (lambda=1.0)"
+  }
+}

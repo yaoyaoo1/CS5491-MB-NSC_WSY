@@ -1,0 +1,14 @@
+{
+  "date_context": "2026-11-19",
+  "timezone": "Asia/Tokyo",
+  "python": "3.14.6",
+  "python_executable": "E:/Eanaconda3/python.exe",
+  "os": "Windows-11-10.0.26200-SP0",
+  "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+  "physical_cores": 6,
+  "logical_processors": 12,
+  "git_commit": "2a03199f399de576b85c4bdc17a6fb9fcb2e38f5",
+  "git_note": "No commit created; exact working source state is identified by SHA-256, not commit alone.",
+  "preflight_90_tests": "PASS",
+  "forbidden_data_contents_read": false
+}

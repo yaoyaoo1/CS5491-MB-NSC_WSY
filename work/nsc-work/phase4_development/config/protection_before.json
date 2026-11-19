@@ -1,0 +1,177 @@
+{
+  "Protected": [
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\check_starter.py",
+      "Hash": "D3BC852ADF3C5862A59C6CE225788016E8224537845E8D12A91422CBF2275544"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\evaluate.py",
+      "Hash": "69540FAD7A2E306A35C2997A1C42183E61CF045383CD5B60C031D12A3BF61C32"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\nsc.py",
+      "Hash": "1F9785F5F0A29A9D5D99DDFA41367A47248E067128C34A6EB4C56D091400D88A"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\README.md",
+      "Hash": "55EB0429D6BD828E218DA413F5498847837C59FA6C3C04BB01F62F0F988B470D"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\student_score.py",
+      "Hash": "990A17207F710A46136EF437FCA0BE1BEE1B629FC7CC47B5099B6F03D05A9B13"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\check_starter.py",
+      "Hash": "D3BC852ADF3C5862A59C6CE225788016E8224537845E8D12A91422CBF2275544"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\evaluate.py",
+      "Hash": "69540FAD7A2E306A35C2997A1C42183E61CF045383CD5B60C031D12A3BF61C32"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\nsc.py",
+      "Hash": "1F9785F5F0A29A9D5D99DDFA41367A47248E067128C34A6EB4C56D091400D88A"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\student_score.py",
+      "Hash": "4A221F3420A97CC83F22CAED42C7342312A3996C3F6F1E57A10C664FB5ED0306"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\mb_nsc\\__init__.py",
+      "Hash": "FB2F28B059785D9EC14ABF97EB5AEA475E79A0A1EC2C2C0355387E74782EB78B"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\mb_nsc\\common.py",
+      "Hash": "A831023F6D44577BAAD18D12EC27F620C9D90748C348A1E335D3BB822EA31446"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\mb_nsc\\global_model.py",
+      "Hash": "202BCEF4A461E6F0259CF62C4B080358B79518A11A62D275541B836BAEE22BAB"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\mb_nsc\\layerwise.py",
+      "Hash": "30BFD3541ECC9F0FDE2151EEDC8925BB8C8EEA245E4CAAD83CEA4D52D2FFB865"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\tests\\conftest.py",
+      "Hash": "3BAD7F77C973414AA70FB665E152B11464BA46803F34A162ABB42EFE649F3E6C"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\tests\\test_mb_nsc_audit.py",
+      "Hash": "2FD652381A35E90C5342E19DA8E9D07FE9B574ED1E9F479DDD551D2593AF98C7"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\tests\\test_mb_nsc_math.py",
+      "Hash": "177122EB1B85E19ADA5813BE8DB6EF7415A60F219B3EC4965EC2CF34F4F55136"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\tests\\test_mb_nsc_models.py",
+      "Hash": "137E50F68A024CBF4C22A2DC800FE0C2DAE4292C8B78903DAC6162A16C759238"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\tests\\test_mb_nsc_recovery.py",
+      "Hash": "54E257AB7A5EBA73F93E1CB746FA8D964B4F8E936F6540B82B9F59C5D639F3DC"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\README.md",
+      "Hash": "55EB0429D6BD828E218DA413F5498847837C59FA6C3C04BB01F62F0F988B470D"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\analysis\\MB_NSC_Mathematical_Specification_Draft.md",
+      "Hash": "9C25DDCF28C568437D45C3B5682E01D9E9F3C723C47F96B7187D5A779B438D0F"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\analysis\\MB_NSC_Mathematical_Specification.md",
+      "Hash": "9CE6B45B705DAB2F0128EA92C3BBD2EE92EAE045DACA7B04A0AA64EBB56E9303"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\analysis\\MB_NSC_Phase3_1_Audit_Report.md",
+      "Hash": "71C0A64E8B6C2195D38C3BA94A034F44E8B2FD00342C366792AFFEF92B1AA20C"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\analysis\\MB_NSC_Phase3_Implementation_Report.md",
+      "Hash": "E9EE22EB440FDEDF7D6B909A653EAE47C8FED1C94CBD4CDB3CBC94B69664179F"
+    },
+    {
+      "Path": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\analysis\\MB-NSC_数学方案说明_公式修复版.docx",
+      "Hash": "8079A8E0B79E83B6FE8AEE8BC2F58F1658D2C3803E4FB01C8FBE1B7138DB2800"
+    }
+  ],
+  "JsonMetadata": [
+    {
+      "FullName": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\expected_development.json",
+      "Length": 14833,
+      "LastWriteTimeUtcTicks": "639267158560000000"
+    },
+    {
+      "FullName": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\data\\architectures.json",
+      "Length": 201326,
+      "LastWriteTimeUtcTicks": "639267154300000000"
+    },
+    {
+      "FullName": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\data\\development_labels.json",
+      "Length": 5992,
+      "LastWriteTimeUtcTicks": "639267154300000000"
+    },
+    {
+      "FullName": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\data\\final_labels.json",
+      "Length": 5864,
+      "LastWriteTimeUtcTicks": "639267154300000000"
+    },
+    {
+      "FullName": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\data\\provenance.json",
+      "Length": 1863,
+      "LastWriteTimeUtcTicks": "639267164500000000"
+    },
+    {
+      "FullName": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\data\\resources.json",
+      "Length": 29910,
+      "LastWriteTimeUtcTicks": "639267154300000000"
+    },
+    {
+      "FullName": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\data\\splits.json",
+      "Length": 3943,
+      "LastWriteTimeUtcTicks": "639267154300000000"
+    },
+    {
+      "FullName": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\development_results.json",
+      "Length": 15723,
+      "LastWriteTimeUtcTicks": "639305908896014798"
+    },
+    {
+      "FullName": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\expected_development.json",
+      "Length": 14833,
+      "LastWriteTimeUtcTicks": "639267158560000000"
+    },
+    {
+      "FullName": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\data\\architectures.json",
+      "Length": 201326,
+      "LastWriteTimeUtcTicks": "639267154300000000"
+    },
+    {
+      "FullName": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\data\\development_labels.json",
+      "Length": 5992,
+      "LastWriteTimeUtcTicks": "639267154300000000"
+    },
+    {
+      "FullName": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\data\\final_labels.json",
+      "Length": 5864,
+      "LastWriteTimeUtcTicks": "639267154300000000"
+    },
+    {
+      "FullName": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\data\\provenance.json",
+      "Length": 1863,
+      "LastWriteTimeUtcTicks": "639267164500000000"
+    },
+    {
+      "FullName": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\data\\resources.json",
+      "Length": 29910,
+      "LastWriteTimeUtcTicks": "639267154300000000"
+    },
+    {
+      "FullName": "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\data\\splits.json",
+      "Length": 3943,
+      "LastWriteTimeUtcTicks": "639267154300000000"
+    }
+  ]
+}

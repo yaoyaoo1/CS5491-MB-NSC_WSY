@@ -1,0 +1,16 @@
+{
+  "architectures": 200,
+  "development": 100,
+  "final_specifications_only": 100,
+  "labels": 100,
+  "matched_pairs": 180,
+  "duplicate_key_check": "PASS",
+  "positive_finite_labels": true,
+  "allowed_data_sha256": {
+    "architectures.json": "4e1972de8e7bb75c1c796ba44899c1fc174f840e46e3bebc6120951e8fcc3638",
+    "development_labels.json": "3451d481876a07c7ede1df6de606b6239f4cad097dd63b1de4d3895e568ed482",
+    "resources.json": "ef3c889a22a876a184fcdc6d51445a3f03d719eed0f8a4ed4493a0da3523ebdc",
+    "splits.json": "28cdee2b18380d1f843d5a8e7126b4e3584a506435f90f8fd241408ed193f6a6"
+  },
+  "final_labels_read": false
+}

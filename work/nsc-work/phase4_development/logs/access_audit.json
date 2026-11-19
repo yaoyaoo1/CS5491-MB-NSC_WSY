@@ -1,0 +1,254 @@
+{
+  "coordinator_allowed_data_reads": [
+    "data\\architectures.json",
+    "data\\development_labels.json",
+    "data\\resources.json",
+    "data\\splits.json"
+  ],
+  "coordinator_denials": [],
+  "children": [
+    {
+      "variant": "layerwise",
+      "lambda": 0.0,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "layerwise",
+      "lambda": 0.1,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "layerwise",
+      "lambda": 0.2,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "layerwise",
+      "lambda": 0.3,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "layerwise",
+      "lambda": 0.4,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "layerwise",
+      "lambda": 0.5,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "layerwise",
+      "lambda": 0.6,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "layerwise",
+      "lambda": 0.7,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "layerwise",
+      "lambda": 0.8,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "layerwise",
+      "lambda": 0.9,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "layerwise",
+      "lambda": 1.0,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "global",
+      "lambda": 0.0,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "global",
+      "lambda": 0.1,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "global",
+      "lambda": 0.2,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "global",
+      "lambda": 0.3,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "global",
+      "lambda": 0.4,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "global",
+      "lambda": 0.5,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "global",
+      "lambda": 0.6,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "global",
+      "lambda": 0.7,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "global",
+      "lambda": 0.8,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "global",
+      "lambda": 0.9,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    },
+    {
+      "variant": "global",
+      "lambda": 1.0,
+      "reads": [
+        "data\\architectures.json",
+        "data\\development_labels.json",
+        "data\\resources.json",
+        "data\\splits.json"
+      ],
+      "denials": []
+    }
+  ],
+  "final_labels_read": false
+}

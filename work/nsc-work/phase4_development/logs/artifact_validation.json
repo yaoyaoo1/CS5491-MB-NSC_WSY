@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-19",
+  "csv_row_counts": {
+    "raw_results/size_controlled_results.csv": 27,
+    "raw_results/selection_distribution_summary.csv": 224,
+    "logs/run_manifest.csv": 23,
+    "raw_results/scores_by_architecture.csv": 2700,
+    "raw_results/model_selection_results.csv": 2,
+    "raw_results/random_baseline_results.csv": 8,
+    "raw_results/candidate_ranking_results.csv": 22,
+    "raw_results/budgeted_selection_results.csv": 44800
+  },
+  "manifest_runs": 23,
+  "all_candidate_runs_passed": true,
+  "one_runner_hash": "36d68d581c98bde0035322308c19632fc479e00e32c36bfebd265ef2e1a45343",
+  "figures_visually_checked": [
+    "figure1_spearman.png",
+    "figure2_kendall.png",
+    "figure3_ranking_comparison.png",
+    "figure4_regret.png",
+    "figure5_size_controlled.png"
+  ],
+  "final_labels_read": false,
+  "read_guard_denials": 0,
+  "protected_file_check": {
+    "protected_files": 24,
+    "protected_unchanged": true,
+    "json_files": 15,
+    "json_metadata_unchanged": true
+  },
+  "supplementary_trial_statistics_match_official": true
+}

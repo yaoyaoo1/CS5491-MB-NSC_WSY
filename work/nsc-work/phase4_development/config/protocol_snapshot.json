@@ -1,0 +1,89 @@
+{
+  "registered_at_tokyo": "2026-11-19T00:20:20.997998+09:00",
+  "split": "development",
+  "grid": [
+    0.0,
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9,
+    1.0
+  ],
+  "candidate_count": 22,
+  "selection": [
+    "maximum Spearman (tolerance 1e-12)",
+    "maximum all-pairs Kendall tau-b (tolerance 1e-12)",
+    "smaller lambda",
+    "Global operational tie"
+  ],
+  "selection_scope": "best lambda per model, then compare model bests",
+  "tolerance_sets": "anchor each tolerance set to its maximum; do not chain pairwise ties",
+  "budgets": [
+    10000000,
+    20000000,
+    30000000,
+    50000000
+  ],
+  "k": [
+    1,
+    3
+  ],
+  "trials": 200,
+  "seed": "202627 + budget + k",
+  "scoring_precision": "official 12 significant digits",
+  "supplementary_metrics_not_used_for_selection": [
+    "size control",
+    "regret",
+    "resources",
+    "random"
+  ],
+  "source_hashes": {
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\check_starter.py": "D3BC852ADF3C5862A59C6CE225788016E8224537845E8D12A91422CBF2275544",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\evaluate.py": "69540FAD7A2E306A35C2997A1C42183E61CF045383CD5B60C031D12A3BF61C32",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\nsc.py": "1F9785F5F0A29A9D5D99DDFA41367A47248E067128C34A6EB4C56D091400D88A",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\README.md": "55EB0429D6BD828E218DA413F5498847837C59FA6C3C04BB01F62F0F988B470D",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\normal\\nsc-starter\\student_score.py": "990A17207F710A46136EF437FCA0BE1BEE1B629FC7CC47B5099B6F03D05A9B13",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\check_starter.py": "D3BC852ADF3C5862A59C6CE225788016E8224537845E8D12A91422CBF2275544",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\evaluate.py": "69540FAD7A2E306A35C2997A1C42183E61CF045383CD5B60C031D12A3BF61C32",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\nsc.py": "1F9785F5F0A29A9D5D99DDFA41367A47248E067128C34A6EB4C56D091400D88A",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\student_score.py": "4A221F3420A97CC83F22CAED42C7342312A3996C3F6F1E57A10C664FB5ED0306",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\mb_nsc\\__init__.py": "FB2F28B059785D9EC14ABF97EB5AEA475E79A0A1EC2C2C0355387E74782EB78B",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\mb_nsc\\common.py": "A831023F6D44577BAAD18D12EC27F620C9D90748C348A1E335D3BB822EA31446",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\mb_nsc\\global_model.py": "202BCEF4A461E6F0259CF62C4B080358B79518A11A62D275541B836BAEE22BAB",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\mb_nsc\\layerwise.py": "30BFD3541ECC9F0FDE2151EEDC8925BB8C8EEA245E4CAAD83CEA4D52D2FFB865",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\tests\\conftest.py": "3BAD7F77C973414AA70FB665E152B11464BA46803F34A162ABB42EFE649F3E6C",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\tests\\test_mb_nsc_audit.py": "2FD652381A35E90C5342E19DA8E9D07FE9B574ED1E9F479DDD551D2593AF98C7",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\tests\\test_mb_nsc_math.py": "177122EB1B85E19ADA5813BE8DB6EF7415A60F219B3EC4965EC2CF34F4F55136",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\tests\\test_mb_nsc_models.py": "137E50F68A024CBF4C22A2DC800FE0C2DAE4292C8B78903DAC6162A16C759238",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\tests\\test_mb_nsc_recovery.py": "54E257AB7A5EBA73F93E1CB746FA8D964B4F8E936F6540B82B9F59C5D639F3DC",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\work\\nsc-work\\README.md": "55EB0429D6BD828E218DA413F5498847837C59FA6C3C04BB01F62F0F988B470D",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\analysis\\MB_NSC_Mathematical_Specification_Draft.md": "9C25DDCF28C568437D45C3B5682E01D9E9F3C723C47F96B7187D5A779B438D0F",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\analysis\\MB_NSC_Mathematical_Specification.md": "9CE6B45B705DAB2F0128EA92C3BBD2EE92EAE045DACA7B04A0AA64EBB56E9303",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\analysis\\MB_NSC_Phase3_1_Audit_Report.md": "71C0A64E8B6C2195D38C3BA94A034F44E8B2FD00342C366792AFFEF92B1AA20C",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\analysis\\MB_NSC_Phase3_Implementation_Report.md": "E9EE22EB440FDEDF7D6B909A653EAE47C8FED1C94CBD4CDB3CBC94B69664179F",
+    "C:\\Users\\sxy\\Desktop\\ppt\\5491NSC\\analysis\\MB-NSC_数学方案说明_公式修复版.docx": "8079A8E0B79E83B6FE8AEE8BC2F58F1658D2C3803E4FB01C8FBE1B7138DB2800"
+  },
+  "runner_sha256": "36d68d581c98bde0035322308c19632fc479e00e32c36bfebd265ef2e1a45343",
+  "environment": {
+    "date_context": "2026-11-19",
+    "timezone": "Asia/Tokyo",
+    "python": "3.14.6",
+    "python_executable": "E:/Eanaconda3/python.exe",
+    "os": "Windows-11-10.0.26200-SP0",
+    "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+    "physical_cores": 6,
+    "logical_processors": 12,
+    "git_commit": "2a03199f399de576b85c4bdc17a6fb9fcb2e38f5",
+    "git_note": "No commit created; exact working source state is identified by SHA-256, not commit alone.",
+    "preflight_90_tests": "PASS",
+    "forbidden_data_contents_read": false
+  },
+  "preflight_tests": "90 passed; protocol self-tests passed before Development labels were read",
+  "final_access": "forbidden; audit guard rejects all non-allowlisted project JSON",
+  "source_protocol_sha256": "d4408808ce271499f6bad342a28894e1c2cbcc3d9c2cfe38b0cc991b5203c377"
+}

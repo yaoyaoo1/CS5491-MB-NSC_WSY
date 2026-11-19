@@ -1,0 +1,3 @@
+﻿Model,BestLambda,Spearman_rho,Kendall_tau_b,SelectionRank
+layerwise,0.9,0.9765976597659766,0.8844444444444445,2
+global,1.0,0.977041704170417,0.888080808080808,1

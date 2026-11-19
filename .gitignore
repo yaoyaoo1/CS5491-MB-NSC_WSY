@@ -1,0 +1,26 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environment and editor settings
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Local verification and reproduction outputs
+b_verification/
+reproduction_results/
+
+# Plot cache
+matplotlib_cache/
+
+# Files outside this milestone upload
+/analysis/
+/normal/nsc-starter.zip
+/normal/topic-neural-spectral-capacity.pdf
+
+# OS files
+Thumbs.db
+.DS_Store

@@ -1,0 +1,4 @@
+Command: E:/Eanaconda3/python.exe -B phase4_development/run_development.py --self-test
+Executed before the first Development label read.
+8 tests passed: Spearman priority; Kendall tie; lower lambda; Global operational tie; null handling; pair accuracy; duplicate JSON; selection replay against official select_trials.
+No candidate or model source was changed after these checks or during the batch.
